@@ -2,12 +2,6 @@
 
 **Mathematics Mini Project** — Using classification algorithms to predict customer buying behaviour.
 
-### Group Members
-- Namrata Murjani
-- Samisksha Mane
-- Aditya Raj
-- Aniket Mahajan
-
 ## Aim
 To use classification algorithms and mathematical concepts to predict whether a customer is likely to purchase a product.
 
